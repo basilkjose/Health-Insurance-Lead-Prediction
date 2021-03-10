@@ -5,6 +5,7 @@
 * [Dataset](#dataset)
 * [Evaluation Metric](#evaluation_metric)
 * [Feature Engineering](#feature_engineering)
+* [Modeling](#modeling)
 
 ## Overview
 
@@ -47,6 +48,6 @@ Since most of the features are categorical we can easily derive some type of fea
 ## Modeling
 
 We mainly used two types of boosting techniques for modeling.
-* XGBoost Classifier
-* CatBoost Classifier
+* [XGBoost Classifier](https://xgboost.readthedocs.io/en/latest/python/python_api.html)
+* [CatBoost Classifier](https://catboost.ai/)
 
