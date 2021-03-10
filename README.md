@@ -18,6 +18,6 @@ The dataset contains following information.
    * Information regarding holding policies of the customer
    * Recommended Policy Informatio   
 The following are features in the dataset
-1) ID - Unique id.
-2) City_Code - Code for the city of users
-3) Region_Code - Code for the region of the users
+1) **ID** - Unique id.
+2) **City_Code** - Code for the city of users
+3) **Region_Code** - Code for the region of the users
