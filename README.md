@@ -39,7 +39,7 @@ It is a binary class classification problem.
 Models are evaluated on the area under the ROC curve(**AUC VALUE**) between the predicted probability and the observed target.
 
 ## Feature_Engineering
-Since most of the features are categorical we can easily derive some type of features.In categorical features we can derive following type of features
+Since most of the features are categorical we can easily derive some type of features.In categorical features we can easily derive following type of features
 * **Frequency Encoding features** - Frequency Encoding for each categories in categorical features
 * **Interaction Features** - Combining 2 categorical features and performing frequency encoding
 * **Aggregate Features** - Grouping categorical features and applying aggregate function such as mean,std,nunique,max,min,sum..
