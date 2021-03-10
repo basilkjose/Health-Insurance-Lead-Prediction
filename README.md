@@ -6,6 +6,7 @@
 * [Evaluation Metric](#evaluation_metric)
 * [Feature Engineering](#feature_engineering)
 * [Modeling](#modeling)
+* [To Do](#to-do)
 
 ## Overview
 
@@ -51,3 +52,6 @@ We mainly used two types of boosting techniques for modeling.
 * [XGBoost Classifier](https://xgboost.readthedocs.io/en/latest/python/python_api.html)
 * [CatBoost Classifier](https://catboost.ai/)
 
+## TO DO
+* Done bit more feature engineering, like feature binning.
+* Done more hyper parameter tuning for modelling.
