@@ -44,4 +44,9 @@ Since most of the features are categorical we can easily derive some type of fea
 * **Interaction Features** - Combining 2 categorical features and performing frequency encoding
 * **Aggregate Features** - Grouping categorical features and applying aggregate function such as mean,std,nunique,max,min,sum..
 
+## Modeling
+
+We mainly used two types of boosting techniques for modeling.
+* XGBoost Classifier
+* CatBoost Classifier
 
