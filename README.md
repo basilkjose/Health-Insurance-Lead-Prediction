@@ -3,7 +3,7 @@
 ## Table of Content
 * [Overview](#overview)
 * [Dataset](#dataset)
-
+* [Evaluation Metric](#evaluation metric)
 
 ## Overview
 
@@ -32,3 +32,7 @@ The following are features in the dataset.
 11) **Holding_Policy_Type** - Type of holding policy.
 12) **Reco_Policy_Cat** - Encoded values of recommended health insurance.
 13) **Reco_Policy_Premium** - Annual premium(INR) for the recommended health insurance.
+
+## Evaluation Metric
+It is a binary class classification problem.
+Submissions are evaluated on area under the ROC curve(**AUC VALUE**) between the predicted probability and the observed target.
