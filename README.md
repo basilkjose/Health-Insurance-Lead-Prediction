@@ -54,4 +54,4 @@ We mainly used two types of boosting techniques for modeling.
 
 ## TO DO
 * Done bit more feature engineering, like feature binning.
-* Done more hyper parameter tuning for modelling.
+* Done more hyper parameter tuning for modeling.
