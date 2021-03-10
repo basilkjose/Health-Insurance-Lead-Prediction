@@ -33,6 +33,6 @@ The following are features in the dataset.
 12) **Reco_Policy_Cat** - Encoded values of recommended health insurance.
 13) **Reco_Policy_Premium** - Annual premium(INR) for the recommended health insurance.
 
-## Evaluation Metric
+## Evaluation_Metric
 It is a binary class classification problem.
 Models are evaluated on the area under the ROC curve(**AUC VALUE**) between the predicted probability and the observed target.
