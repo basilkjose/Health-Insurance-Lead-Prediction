@@ -35,4 +35,4 @@ The following are features in the dataset.
 
 ## Evaluation Metric
 It is a binary class classification problem.
-Submissions are evaluated on area under the ROC curve(**AUC VALUE**) between the predicted probability and the observed target.
+Models are evaluated on the area under the ROC curve(**AUC VALUE**) between the predicted probability and the observed target.
